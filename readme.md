@@ -15,6 +15,6 @@ npm start
 ![config_vs](https://user-images.githubusercontent.com/63224412/85519061-4c3ec680-b5d7-11ea-9f42-4d113ae0d891.jpg)
 - Start the application
 ![config_terminal](https://user-images.githubusercontent.com/63224412/85520502-62e61d00-b5d9-11ea-942b-0bc794fad81f.jpg)
-- and ta-da
+
 
 
