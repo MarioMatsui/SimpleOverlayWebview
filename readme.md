@@ -1,5 +1,5 @@
 # A simple Overlay Webview
-![version](https://user-images.githubusercontent.com/63224412/85521127-31218600-b5da-11ea-86e0-b59028a8cd76.jpeg)
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
 ## Install
 ```shell
