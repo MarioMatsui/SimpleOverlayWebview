@@ -10,8 +10,7 @@ npm start
 ```
 ## How to configurate
 - First, open the file <code>"config.js"</code>
-![Screenshot_1](https://user-images.githubusercontent.com/63224412/85516337-780c7d00-b5d4-11ea-8c0e-9af164bf1f0f.png)
-
+![folder_config](https://user-images.githubusercontent.com/63224412/85518985-3a5d2380-b5d7-11ea-8eb6-59ef9ab9d67b.jpg)
 - Then, put the localhost or a url here:
 ![Screenshot_2](https://user-images.githubusercontent.com/63224412/85518537-b6a33700-b5d6-11ea-98c2-829410fee0fa.png)
 
