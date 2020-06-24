@@ -10,3 +10,5 @@ npm start
 ```
 ## How to configurate
 - First, open the file <code>"config.js"</code>
+![Screenshot_1](https://user-images.githubusercontent.com/63224412/85516337-780c7d00-b5d4-11ea-8c0e-9af164bf1f0f.png)
+
