@@ -19,5 +19,7 @@ npm start
 
 ![config_terminal](https://user-images.githubusercontent.com/63224412/85520502-62e61d00-b5d9-11ea-942b-0bc794fad81f.jpg)
 
+- And, it's done!
+
 
 
