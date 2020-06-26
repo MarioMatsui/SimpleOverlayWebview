@@ -16,7 +16,8 @@ npm start
 | **Refresh** |  Cmd + R | Ctrl + R | Ctrl + R |
 | **DevTool** |  Cmd + J | Ctrl + J | Ctrl + J |
 | **Close** |  Cmd + w | Ctrl + w | Ctrl + w |
-You can customize your own `shortcuts` in `./app.js` file.
+
+- You can customize your own `shortcuts` in `./app.js` file.
 ## How to configurate
 - First, open the file <code>"config.js"</code>.
 - Then, put the localhost or a url.
