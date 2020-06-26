@@ -41,6 +41,3 @@ You can customize your own `shortcuts` in `./app.js` file.
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-
-_💜_
