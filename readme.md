@@ -17,12 +17,31 @@ npm start
 | **DevTool** |  Cmd + J | Ctrl + J | Ctrl + J |
 | **Close** |  Cmd + w | Ctrl + w | Ctrl + w |
 
-- You can customize your own `shortcuts` in `./app.js` file.
+You can customize your own `shortcuts` in `./app.js` file.
 ## How to configurate
 - First, open the file <code>"config.js"</code>.
 - Then, put the localhost or a url.
 - Start the application.
 - And, it's done!
+---
+
+## Author
+
+👤 **Mayk Brito**
+
+* Twitter: [@Mario_Matsui](https://twitter.com/mario_matsui)
+* Github: [@MarioMatsui](https://github.com/MarioMatsui)
+
+## Tested in
+
+- MacOS
+- Linux Ubuntu 20.04
+- Windows 10
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
 
 
-
+***
+_💜_
