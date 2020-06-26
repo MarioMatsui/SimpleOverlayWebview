@@ -1,25 +1,26 @@
-# A simple Overlay Webview
+# A simple Overlay Webview 📺
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
 ## Install
 ```shell
 npm install
 ```
-## open
+## Open
 ```shell
 npm start
 ```
+## Commands
+| | | | |
+| :-: | :-: | :-: | :-: |
+| Functionality | MacOs | Windows | Linux | 
+| **Refresh** |  Cmd + R | Ctrl + R | Ctrl + R |
+| **DevTool** |  Cmd + J | Ctrl + J | Ctrl + J |
+| **Close** |  Cmd + w | Ctrl + w | Ctrl + w |
+You can customize your own `shortcuts` in `./app.js` file.
 ## How to configurate
-- First, open the file <code>"config.js"</code>
-
-![folder_config](https://user-images.githubusercontent.com/63224412/85518985-3a5d2380-b5d7-11ea-8eb6-59ef9ab9d67b.jpg)
-- Then, put the localhost or a url here:
-
-![config_vs](https://user-images.githubusercontent.com/63224412/85519061-4c3ec680-b5d7-11ea-9f42-4d113ae0d891.jpg)
-- Start the application
-
-![config_terminal](https://user-images.githubusercontent.com/63224412/85520502-62e61d00-b5d9-11ea-942b-0bc794fad81f.jpg)
-
+- First, open the file <code>"config.js"</code>.
+- Then, put the localhost or a url.
+- Start the application.
 - And, it's done!
 
 
